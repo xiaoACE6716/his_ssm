@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:druid:1.2.13-SNSAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.2.13-SNSAPSHOT/druid-1.2.13-SNSAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.2.13-SNSAPSHOT/druid-1.2.13-SNSAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.2.13-SNSAPSHOT/druid-1.2.13-SNSAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
